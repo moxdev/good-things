@@ -1,8 +1,6 @@
 # Start rails with postgresql
 rails new "myapp" --database=postgresql
 
-
-
 ######################
 # Gem File Settings
 ######################
@@ -106,3 +104,21 @@ end
 # Add to aplplication.js (right above //= require_tree . )
 //= require bootstrap-sprockets
 ################################
+
+###############################
+# Activate Guard livereload
+###############################
+guard -P livereload
+# Then open localhost
+
+###############################
+#
+###############################
+
+###############################
+#
+###############################
+
+###############################
+#
+###############################
