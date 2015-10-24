@@ -108,6 +108,7 @@ end
 ###############################
 # Activate Guard livereload
 ###############################
+# start rails server then run:
 guard -P livereload
 # Then open localhost
 
